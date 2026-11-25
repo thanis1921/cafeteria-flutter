@@ -1,4 +1,4 @@
-<img width="1032" height="631" alt="image" src="https://github.com/user-attachments/assets/c1b7419e-60e5-4c45-856b-1bd007c663b0" /># cafeteria-flutter
+cafeteria-flutter
 Aplicación móvil de cafetería desarrollada con Flutter.
 
 # ☕ Aplicación de Cafetería
