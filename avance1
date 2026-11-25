@@ -1,0 +1,61 @@
+
+☕ ALETEO DE CAFETERÍA
+
+📌 Descripción
+
+Este repositorio contiene el desarrollo de una aplicación móvil para una cafetería, realizada utilizando Flutter y Dart.
+
+El proyecto tiene como finalidad aplicar conocimientos de programación y desarrollo de aplicaciones móviles, así como organizar el código fuente y los archivos necesarios para su elaboración.
+
+ 🎯 Objetivo general
+
+Desarrollar una aplicación móvil para una cafetería mediante Flutter, fortaleciendo los conocimientos sobre programación, diseño de interfaces y desarrollo de software.
+📚 Contenido del repositorio
+
+- Código fuente de la aplicación.
+- Diseño de interfaces.
+- Archivos de configuración.
+- Recursos utilizados en el proyecto.
+- Documentación técnica.
+- Evidencias del desarrollo.
+
+ 🛠️ Tecnologías utilizadas
+
+- Flutter
+- Dart
+- Git
+- GitHub
+
+ 📱 Desarrollo de la aplicación
+
+El proyecto se desarrolla con Flutter, un framework que permite crear aplicaciones móviles mediante una sola base de código.
+
+Se utiliza Dart como lenguaje de programación para implementar la lógica y las funcionalidades de la aplicación.
+
+ 📂 Organización del repositorio
+
+El repositorio puede incluir las siguientes carpetas y archivos:
+
+- `lib/`: código principal de la aplicación.
+- `assets/`: imágenes y recursos gráficos.
+- `test/`: pruebas del proyecto.
+- `android/`: configuración para Android.
+- `ios/`: configuración para iOS.
+- `pubspec.yaml`: dependencias y configuración de Flutter.
+- `README.md`: información general del proyecto.
+
+ 🔄 Control de versiones
+
+Se utiliza GitHub para almacenar el código fuente, registrar los cambios realizados y mantener un historial de versiones durante el desarrollo de la aplicación.
+
+👩‍💻 Autor
+
+Estudiante de Ingeniería en Sistemas Computacionales.
+
+ 📅 Estado del proyecto
+
+En desarrollo.
+
+
+
+
