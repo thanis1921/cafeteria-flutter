@@ -1,0 +1,33 @@
+1. Descripción del proyecto
+Aleteo de cafetería es una aplicación móvil pensada para apoyar la experiencia de los clientes de una
+cafetería. De acuerdo con la descripción disponible del repositorio, la aplicación busca facilitar la
+consulta de productos y apoyar la gestión de pedidos.
+2. Objetivo general
+Desarrollar una aplicación móvil con Flutter que facilite la consulta de los productos de una cafetería y
+contribuya a organizar el proceso de pedidos mediante una interfaz accesible y sencilla de utilizar.
+3. Alcance inicial
+El alcance descrito hasta ahora contempla la presentación de productos y el apoyo a la gestión de
+pedidos. Los detalles específicos —por ejemplo, registro de usuarios, carrito, pagos, inventario o panel
+administrativo— deberán documentarse únicamente cuando formen parte de la versión real de la
+aplicación.
+4. Tecnologías utilizadas
+Tecnología Uso general
+Flutter Framework utilizado para desarrollar la aplicación móvil.
+Dart Lenguaje de programación empleado por Flutter.
+Git y GitHub Control de versiones y alojamiento del repositorio del proyecto.
+5. Organización del código
+En un proyecto Flutter, la carpeta lib/ suele contener el código principal de la aplicación; assets/ puede
+almacenar imágenes y otros recursos si el proyecto los utiliza; test/ contiene pruebas; y pubspec.yaml
+registra la configuración y dependencias. La estructura exacta debe verificarse con los archivos reales
+del proyecto.
+6. Publicación y control de versiones
+El repositorio de GitHub permite conservar el código fuente, registrar cambios y compartir el avance del
+proyecto. Se recomienda realizar commits con mensajes claros, mantener actualizado el archivo
+README y evitar publicar contraseñas, claves privadas o credenciales.
+7. Próximas actividades sugeridas
+• Completar la lista real de funcionalidades de la aplicación.
+• Agregar capturas de pantalla de las interfaces terminadas.
+Aleteo de cafetería | Documento descriptivo Página 3
+• Documentar los pasos para instalar y ejecutar el proyecto.
+• Describir la estructura real de carpetas y archivos.
+• Registrar las pruebas realizadas y los cambios importantes.
